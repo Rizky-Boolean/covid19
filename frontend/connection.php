@@ -3,7 +3,7 @@
 $host = "localhost";
 $username = "root";
 $password = "root";
-$database = "covid19";
+$database = "table";
 
 // Membuat koneksi ke MySQL
 $conn = new mysqli($host, $username, $password, $database);
